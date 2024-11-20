@@ -37,7 +37,7 @@ Zapojte komponenty podle tohoto schématu:
 | 4           | Tlačítko (reset)      | Reset na 90°         |
 | 5-8         | Sedmisegmentový displej| Zobrazení úhlu       |
 
-> ⚠️ **Důležité**: Mezi piny tlačítek a GND vložte rezistory, pokvaď 
+> ⚠️ **Důležité**: Mezi piny tlačítek a GND vložte rezistory, pokvaď nemáte bouncing na tlačítku.
 
 ---
 
