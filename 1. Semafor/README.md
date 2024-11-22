@@ -2,7 +2,7 @@
 
 Tato kapitola vás provede vytvořením funkčního **semaforu** pomocí Arduino desky. Naučíte se ovládat více LED diod, používat časové zpoždění pro simulaci provozu a seznámíte se se základními funkcemi pro digitální výstupy.  
 
-👉 [Vyzkoušejte simulaci na Wokwi](https://wokwi.com/projects/#####) *(odkaz nahraďte skutečnou simulací, pokud máte projekt na Wokwi)*  
+👉 [Vyzkoušejte simulaci na Wokwi](https://wokwi.com/projects/415064566024335361) *(odkaz nahraďte skutečnou simulací, pokud máte projekt na Wokwi)*  
 
 ---
 
